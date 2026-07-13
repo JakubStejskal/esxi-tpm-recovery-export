@@ -1,0 +1,8 @@
+# Recovery-key exports contain plaintext keys — never commit them.
+*.csv
+
+# Editor / OS cruft
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
